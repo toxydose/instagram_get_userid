@@ -3,7 +3,7 @@ This simple script gets Instagram user ID without API key which is useful for so
 
 # How it works
 
-The scripts scrapes the site https://smashballoon.com/instagram-feed/find-instagram-user-id/ and retreives the user id from the Instagram username.
+The scripts scrapes the site https://smashballoon.com/instagram-feed/find-instagram-user-id/ and retrieves the user id from the Instagram username.
 
 # Installation & usage
 
