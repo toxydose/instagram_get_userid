@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 
 username = input('username: ')
 try:
-	html = urlopen('https://smashballoon.com/instagram-feed/find-instagram-user-id/?username='+username+'&address=&896914zje22267qjtl=4')
+	html = urlopen('https://smashballoon.com/instagram-feed/find-instagram-user-id/?username='+username+'&address=&5611zzl19832tjrl=4')
 except:
 	print('Could not get userID!')
 	exit()
